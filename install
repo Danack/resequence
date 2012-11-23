@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cp reseq /usr/bin/reseq
+cp resequence.phar /usr/bin/resequence.phar
+
+chmod 755 /usr/bin/reseq 
